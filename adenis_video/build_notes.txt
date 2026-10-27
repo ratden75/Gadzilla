@@ -1,0 +1,4 @@
+Source competitor: https://disk.yandex.ru/i/WwTtXPb9EylnHw (BIRUDA ~52s vertical)
+Adenis assets: adenis.su product cutout + internals banner + rutube/VK buyer videos 2000Nm
+Output: 1080x1920 H.264 + AAC, ~49s
+Structure mirrored: logo, hero, hold, work+torque text, impact mech, BL/copper, modes, kit case, batteries, power, end CTA
